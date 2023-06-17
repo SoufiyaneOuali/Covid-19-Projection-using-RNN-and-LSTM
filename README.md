@@ -1,1 +1,5 @@
 # Covid-19-Projection-using-RNN-and-LSTM
+
+<b> The primary objective of this notebook </b> is to conduct an in-depth analysis of the COVID-19 outbreak by employing fundamental data visualization techniques. The study focuses on the analysis of Moroccan COVID-19 data, sourced from reputable and trusted resources, notably the Ministry of Health in Morocco. Additionally, relevant supplementary information such as weather data and population density is incorporated to enhance the analysis.
+
+To gain comprehensive insights into the dynamics of the COVID-19 pandemic, advanced techniques such as <b>RNN-LSTM (Recurrent Neural Network - Long Short-Term Memory) and Time Series forecasting </b> are utilized. These predictive modeling approaches enable the examination of the impact and propagation of the COVID-19 virus in the forthcoming days. By leveraging the power of data science methodologies, this study aims to provide valuable insights into the patterns, trends, and potential future scenarios related to the COVID-19 outbreak, fostering a deeper understanding of its dynamics and facilitating informed decision-making in public health and policy domains.
